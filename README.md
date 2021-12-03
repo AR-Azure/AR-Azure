@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AR-Azure and i´m the Project Lead of Aspire-Roleplay.de
+- 👀 I’m interested in C#, js, HTML, CSS
+- 🌱 I’m currently learning for C#, js, HTML, CSS
+- 📫 How to reach me on Discord: Azure#3639
